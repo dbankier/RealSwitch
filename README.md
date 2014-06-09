@@ -4,6 +4,7 @@ A native Android Titanium module for a **real** Switch for Android - not a Toggl
 
 ![switch](http://developer.android.com/images/ui/switch.png)
 
+**Note**: API 14 and above.
 
 ## Install
 
